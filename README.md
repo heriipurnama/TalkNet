@@ -17,7 +17,7 @@ TalkNet is a chat application that provides a platform for users to communicate 
 To get started with TalkNet, clone the repository and install the dependencies:
 
 ```bash
-git clone https://github.com/your-username/TalkNet.git
+git clone https://github.com/heriipurnama/TalkNet.git
 cd TalkNet
 npm install
 ```
